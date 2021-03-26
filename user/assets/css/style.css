@@ -1,0 +1,112 @@
+body
+{	
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	height: 1000px;
+}
+.banner
+{
+	width:100%;
+	height: 100vh;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.banner video
+{
+	position: relative;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+.banner .video-content
+{
+	position: absolute;
+	z-index: 1;
+	max-width:auto;
+	margin: 0 auto;
+	text-align: center;
+}
+.banner .video-content h1
+{
+	font-size: 3.5em;
+	padding:0;
+	text-transform: uppercase;
+	color:#ff5722;
+
+}
+.banner .video-content p
+{
+	font-size: 1.5em;
+	text-transform: capitalize;
+	color:#fff;
+	line-height: 30px;
+}
+.shadow
+    {
+      border:1px;
+      -webkit-box-shadow:1px 3px 10px 1px rgba(0,0,0,0.5);
+      -moz-box-shadow:1px 3px 10px 1px rgba(0,0,0,0.5);
+      box-shadow: 1px 3px 10px 1px rgba(0,0,0,0.5);
+    }
+@media screen and (max-width: 767px) {
+  	
+	.banner
+	{
+		width:100%;
+		height: 70vh;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.banner video
+	{
+		position: relative;
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+		pointer-events: none;
+	}
+  	.banner .video-content
+	{
+		position: absolute;
+		z-index: 1;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.banner .video-content h1
+	{
+		font-size:20px;
+		text-transform: uppercase;
+		color:#ff5722;
+	}
+	.banner .video-content p
+	{
+		font-size: 11px;
+		text-transform: capitalize;
+		color:#fff;
+		line-height: 13px;
+		
+	}
+	.banner .video-content a
+	{
+		  padding: 5px 9px;
+		  border-radius: 30px;
+		  font-weight: 400;
+		  color: #fff;
+		  font-size: 10px;
+		  -webkit-transition: all 0.3s linear;
+		  -moz-transition: all 0.3s linear;
+		  -o-transition: all 0.3s linear;
+		  transition: all 0.3s linear;
+		  overflow: hidden;
+		  text-transform: uppercase;
+	}
+
+
+}
+

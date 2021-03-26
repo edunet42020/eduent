@@ -1,0 +1,28 @@
+*{
+    color:#fff;
+}
+.bg{
+    background: url("../images/background/f.jpg") no-repeat;
+    background-size: cover; 
+    width:auto;
+    height: 100vh;
+}
+.form-container
+{
+    border:1px;
+    border-radius: 5px;
+    padding:20px 40px;
+    margin-top: 20vh; 
+    -webkit-box-shadow:-1px 4px 26px 6px rgba(0,0,0,0.3);
+    -moz-box-shadow:-1px 4px 26px 6px rgba(0,0,0,0.3);
+    box-shadow: -1px 4px 26px 6px rgba(0,0,0,0.3);
+    background-color:rgba(18, 221, 153,1);
+}
+.form-container input
+{
+    border:none;
+}
+.form-container a{
+    text-decoration: none;
+    color:#fff;
+}

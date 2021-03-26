@@ -1,0 +1,233 @@
+a{
+  color: #0cc3ea;
+}
+a:hover{
+  color: #0cc3ea;
+}
+.btn-common {
+  background: #0cc3ea;
+}
+.btn-common::before{
+  background: #ea650c;
+}
+.btn-border:hover{
+  color: #ea700c;
+}
+/* Back to Top */
+.back-to-top i {
+  background-color: #0cc3ea;
+}
+#color-style-switcher .bottom a i{
+  color: #0cc3ea;
+}
+#roof{
+  background: #0cc3ea;
+}
+/* Navbar */
+.slicknav_btn{
+  border-color: #0cc3ea;
+  border-radius: 2px;
+}
+.slicknav_menu .slicknav_btn .slicknav_icon-bar{
+  background: #0cc3ea;
+}
+.slicknav_menu .slicknav_btn:hover{
+  background: #0cc3ea;
+}
+.slicknav_nav a:hover,.slicknav_nav a.active{
+  color: #0cc3ea;
+}
+.slicknav_nav ul li a.active{
+  color: #0cc3ea;
+}
+.full-search{
+  border-color: #0cc3ea;
+}
+.full-search::before{
+  border-color: transparent transparent #0cc3ea;
+}
+.full-search input[type="text"]{
+  border-top: 2px solid #0cc3ea;
+}
+.full-search input[type="text"]:focus{
+  border-top: 2px solid #0cc3ea;
+}
+.full-search .close-search{
+   color: #0cc3ea;
+}
+.account-setting a:hover{
+  color: #0cc3ea;
+}
+/* Navbar */
+.main-navigation .navbar-nav > li > a:hover,
+.main-navigation .navbar-nav > li > a.active,
+.main-navigation .navbar-nav > li.open > a,
+.main-navigation .navbar-nav > .active > a:hover,
+.main-navigation .navbar-nav > .active > a:focus,
+.main-navigation .navbar-nav > .open > a:hover{
+  color: #0cc3ea;
+}
+.dropdown-menu > li > a:focus,
+.dropdown-menu> li > a:hover,
+.dropdown-menu> li > a.active{
+  background: #0cc3ea;
+}
+.open-search{
+  background: #0cc3ea;
+}
+#carousel-area .carousel-indicators li{
+  background: #0cc3ea;
+}
+.activity-item{
+  border-color: #0cc3ea;
+}
+.icon i{
+  background: #0cc3ea;
+}
+.thumb .courses-price .price{
+  color: #0cc3ea;
+}
+.coaching-courses .coaching-wrapper h3 span{
+  color: #0cc3ea;
+}
+.why-wrap:hover h4 a{
+  color: #0cc3ea;
+}
+.counting .icon-left i{
+  color: #0cc3ea;
+}
+.teacher .teacher-item .teacher-desc h3 a:hover{
+  color: #0cc3ea;
+}
+.news-grid-item .news-content .news-title a:hover{
+  color: #0cc3ea;
+}
+.news-grid-item .news-content .meta .meta-part a:hover{
+  color: #0cc3ea;
+}
+.meta .meta-part a i{
+  color: #0cc3ea;
+}
+footer .address li i{
+  color: #0cc3ea;
+}
+footer .list li a:hover{
+  color: #0cc3ea;
+}
+.course-list .courses-list-1 .item-list .price{
+  color: #0cc3ea;
+}
+/* Feature Highlighta */
+.owl-theme .owl-buttons div{
+  background: #0cc3ea!important;
+}
+/* Gallery */
+.controls a:hover, .controls .active{
+  background: #0cc3ea;
+}
+.controls a{
+  border-color: #0cc3ea;
+}
+.portfolio-item .icon i:hover{
+  color: #0cc3ea;
+  border-color: #0cc3ea;
+}
+.sup-desc-wrap .sup-link .left-link, .sup-desc-wrap .sup-link .right-link{
+  border-color: #0cc3ea;
+  background: #0cc3ea;
+}
+.sup-desc-wrap .sup-link a:hover{
+  color: #0cc3ea;
+}
+/* Pagination */
+.pagination .active > a, .pagination .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover{
+  background: #0cc3ea!important;
+}
+.pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover{
+  background: #0cc3ea!important;
+  border-color: #0cc3ea!important;
+}
+.breadcrumb-wrapper .current{
+  color: #0cc3ea;
+}
+#sidebar .tag a:hover{
+  color: #0cc3ea;
+}
+.widget-area-sidebar .posts-list .widget-content a:hover{
+  color: #0cc3ea;
+}
+.widget-featured .widget-img .text span{
+  color: #0cc3ea;
+}
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span{
+  background: #0cc3ea;
+}
+.nav-tabs > li > a{
+  border-color: #0cc3ea; 
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li > a:hover, .nav-tabs > li.active > a:hover{
+  background: #0cc3ea;
+  border-color: #0cc3ea; 
+}
+.form-control:focus, textarea:focus{
+  border-color: #0cc3ea; 
+}
+.panel-default .panel-heading a:hover{
+  color: #0cc3ea;
+}
+.cta{
+  background: #0cc3ea; 
+}
+.tp-bullets.preview4 .bullet:hover, .tp-bullets.preview4 .bullet.selected{
+  background: #0cc3ea!important; 
+  border-color: #0cc3ea!important; 
+}
+
+.single-course .course-item .topics ul li i{
+  color: #0cc3ea;
+}
+.course-information .amount{
+  color: #0cc3ea;
+}
+#sidebar .cat-list li i{
+  color: #0cc3ea;
+}
+#sidebar .posts-list .widget-content a{
+  color: #0cc3ea;
+}
+.about .info-list li a i{
+  color: #0cc3ea;
+}
+.about .info-list li a:hover{
+  color: #0cc3ea;
+}
+.post-title a:hover{
+  color: #0cc3ea;
+}
+.meta .meta-part a:hover{
+  color: #0cc3ea;
+}
+#sidebar .cat-list li a:hover{
+  color: #0cc3ea;
+}
+#sidebar .tag a{
+  background: #0cc3ea;
+}
+.event-post .date p{
+  color: #0cc3ea;
+}
+.event-post .date{
+  border-color: #0cc3ea;
+}
+.event-grid-item .event-content .heding-title .date{
+  background: #0cc3ea;
+}
+.event-grid-item .event-content .heding-title h3 a:hover{
+  color: #0cc3ea;
+}
+#comments .comments-list .media .info-body .reply-link:hover{
+  background: #0cc3ea;
+}
+.testimonial-item .quote-author .quote-footer span{
+  color: #0cc3ea;
+}
